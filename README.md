@@ -40,6 +40,3 @@ A cleaned and processed dataset in Excel format for further analysis.
 
 ## 🤝 Contributions
 Contributions, suggestions, and feedback are welcome! Please create a pull request or open an issue for discussions.
-
-## 🛡️ License
-This project is licensed under the MIT License. See the LICENSE file for more details.
