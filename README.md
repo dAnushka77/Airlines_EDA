@@ -23,15 +23,15 @@ A cleaned and processed dataset in Excel format for further analysis.
 ## 🛠️ Technologies Used
 - Programming Languages: Python
 - Libraries:
-BeautifulSoup: For web scraping
+1) BeautifulSoup: For web scraping
 
-pandas: For data manipulation
+2) pandas: For data manipulation
 
-matplotlib & seaborn: For visualization
+3) matplotlib & seaborn: For visualization
 
-nltk or TextBlob: For sentiment analysis
+4) nltk or TextBlob: For sentiment analysis
 
-openpyxl: For working with Excel files
+5) openpyxl: For working with Excel files
 
 ## 📊 Insights and Results
 - Sentiment Breakdown: Understand customer sentiments across different airlines.
