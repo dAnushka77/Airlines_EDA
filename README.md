@@ -38,5 +38,14 @@ A cleaned and processed dataset in Excel format for further analysis.
 - Key Metrics: Identify factors influencing customer satisfaction or dissatisfaction.
 - Trends: Track changes in airline service quality over time.
 
+## Output
+
+![image](https://github.com/user-attachments/assets/4eb8c8a0-318e-45d7-9257-468b6ab7c942)
+
+![image](https://github.com/user-attachments/assets/7e1b717b-683f-4f5d-9302-046c2ad00979)
+
+![image](https://github.com/user-attachments/assets/769a4167-3f86-4331-98ea-62285d366d79)
+
+
 ## 🤝 Contributions
 Contributions, suggestions, and feedback are welcome! Please create a pull request or open an issue for discussions.
