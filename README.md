@@ -22,7 +22,9 @@ A cleaned and processed dataset in Excel format for further analysis.
 
 ## 🛠️ Technologies Used
 - Programming Languages: Python
+  
 - Libraries:
+  
 1) BeautifulSoup: For web scraping
 
 2) pandas: For data manipulation
